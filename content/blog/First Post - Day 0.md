@@ -1,11 +1,17 @@
 ---
-title: "First Post - Day 0"
+title: First Post - Day 0
 date: 2025-05-12T05:09:17Z
-author: "Ghost Mitra"
-authorTwitter: "ghost_mitra"
+author: Ghost Mitra
+authorTwitter: ghost_mitra
 cover: ""
-tags: ["First Post", "Day 0", "hugo"]
-keywords: ["First Post", "Day 0", "hugo"]
+tags:
+  - First Post
+  - Day 0
+  - hugo
+keywords:
+  - First Post
+  - Day 0
+  - hugo
 description: ""
 showFullContent: false
 readingTime: false
