@@ -1,8 +1,112 @@
 /* Fira Code: https://github.com/tonsky/FiraCode */
-@import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
+
+
 @font-face {
-  font-family: 'Terminus Nerd Font';
-  src: url('/fonts/terminessnerdfontmono-regular.ttf') format('truetype');
+  font-family: 'Terminess Nerd Font';
+  src: url('../fonts/Terminess/TerminessNF.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNF.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font';
+  src: url('../fonts/Terminess/TerminessNF-Italic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNF-Italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font';
+  src: url('../fonts/Terminess/TerminessNF-BoldItalic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNF-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font';
+  src: url('../fonts/Terminess/TerminessNF-Bold.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNF-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Mono';
+  src: url('../fonts/Terminess/TerminessNFM-Bold.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFM-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Mono';
+  src: url('../fonts/Terminess/TerminessNFM-BoldItalic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFM-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Mono';
+  src: url('../fonts/Terminess/TerminessNFM.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFM.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Mono';
+  src: url('../fonts/Terminess/TerminessNFM-Italic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFM-Italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Propo';
+  src: url('../fonts/Terminess/TerminessNFP.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFP.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Propo';
+  src: url('../fonts/Terminess/TerminessNFP-Bold.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFP-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Propo';
+  src: url('../fonts/Terminess/TerminessNFP-BoldItalic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFP-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Terminess Nerd Font Propo';
+  src: url('../fonts/Terminess/TerminessNFP-Italic.woff2') format('woff2'),
+      url('../fonts/Terminess/TerminessNFP-Italic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
 }
 
 :root {
