@@ -1,12 +1,13 @@
 ---
 title: First Post - Day 0
-date: 2025-05-12T05:09:17Z
+date: 2025-05-12
+time: 05:09:17 IST
 author: Ghost Mitra
 authorTwitter: ghost_mitra
-cover: ""
+cover: 
 tags:
-  - First Post
-  - Day 0
+  - FirstPost
+  - Day0
   - hugo
 keywords:
   - First Post
