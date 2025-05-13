@@ -22,4 +22,6 @@ draft: false
 
 # Email
 
-󰻣&nbsp;&nbsp;[debarghaya@debarghaya.in](mailto:debarghaya@debarghaya.in)
+󰻣&nbsp;&nbsp;[debarghaya@debarghaya.in](mailto:debarghaya@debarghaya.in)\
+󰻣&nbsp;&nbsp;[Debarghaya.Mitra2024@iem.edu.in](mailto:Debarghaya.Mitra2024@iem.edu.in)\
+󰻣&nbsp;&nbsp;[24f2001948@ds.study.ittm.ac.in](mailto:24f2001948@ds.study.ittm.ac.in)
