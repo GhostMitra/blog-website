@@ -1,8 +1,12 @@
 ---
-title: Contact
+title: "Contact"
+authorTwitter: "ghost_mitra"
+cover: ""
+description: ""
+showFullContent: false
+readingTime: false
+hideComments: true
 draft: false
-description:
-isStarred: false
 ---
 
 # Socials
@@ -13,4 +17,4 @@ isStarred: false
 
 # Email
 
-- [debarghaya@debarghaya.in](maitto:debarghaya@debarghaya.in)
+- [debarghaya@debarghaya.in](mailto:debarghaya@debarghaya.in)
