@@ -14,6 +14,7 @@ draft: false
 - x.com [[ghost_mitra](https://x.com/ghost_mitra)]
 - github.com [[GhostMitra](https://github.com/GhostMitra)]
 - instagram.com [[\_mr.ghost.mitra\_](https://www.instagram.com/_mr.ghost.mitra_/)]
+- threads.com [[@\_mr.ghost.mitra\_](https://www.threads.com/@_mr.ghost.mitra_)]
 
 # Email
 
