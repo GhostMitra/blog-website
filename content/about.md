@@ -18,7 +18,7 @@ Eagle 1-1: Ghost 0-1 Do You Copy?
 
 Ghost 0-1: Roger that
 
-It's Debarghaya "" Mitra. He is also a avid programmer who loves to be in backend and DevOps. Apart from programming he also loves **nature Photography**, **racing**, **biking** to every corner , **reading** each and every book and **travelling** to each and every part of the world. As for why the alias its because ***[redacted]***. 
+It's Debarghaya "Ghost" Mitra. He is also a avid programmer who loves to be in backend and DevOps. Apart from programming he also loves **nature Photography**, **racing**, **biking** to every corner , **reading** each and every book and **travelling** to each and every part of the world. As for why the alias its because ***[redacted] [radio buzz]***. 
 
 In this self made blogging website he would be giving his day to day coding journey, what he has learnt, what he has studied, his academics and any guides that he might want to preach...
 
