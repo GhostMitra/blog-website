@@ -80,7 +80,7 @@
 .menu--mobile .menu__trigger {
   color: var(--accent);
   border: 2px solid;
-  margin-left: 10px;
+  margin-left: 25px;
   height: 100%;
   padding: 3px 8px;
   margin-bottom: 0 !important;
