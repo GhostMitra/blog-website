@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Ghost&#39;s Blogspot</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Ghost&#39;s Blogspot</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 05:09:17 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post - Day 0</title>
+      <link>//localhost:1313/blog/first-post---day-0/</link>
+      <pubDate>Mon, 12 May 2025 05:09:17 +0000</pubDate>
+      <guid>//localhost:1313/blog/first-post---day-0/</guid>
+      <description>So bascially this is Ghost&amp;rsquo;s First just to test this hugo blogging website made by himself and interact with you all.&#xA;Learnt many things like developing a hugo theme, importing archetypes and making this hostable to his domain. Basically this are the first towards a DevOps Engineer&amp;hellip;.&#xA;Do give any suggestion for improvement</description>
+    </item>
+  </channel>
+</rss>

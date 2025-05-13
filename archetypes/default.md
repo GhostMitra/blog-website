@@ -1,8 +1,14 @@
 ---
-title: Debarghaya Mitra
+title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 date: {{ .Date }}
-draft: true
-description:
-isStarred: false
+author: "Ghost Mitra"
+authorTwitter: "ghost_mitra"
+cover: ""
+tags: []
+keywords: []
+description: ""
+showFullContent: false
+readingTime: false
+hideComments: false
+draft: false
 ---
-

@@ -4,6 +4,7 @@ languageCode = "en-us"
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
 pagination.pagerSize = 5
+title = "Ghost's Blogspot"
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
@@ -21,10 +22,10 @@ pagination.pagerSize = 5
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -74,10 +75,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Ghost's Blogspot"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "A daily coding journey by Ghost Mitra"
       owner = ""
       keywords = ""
       copyright = ""
@@ -92,7 +93,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Debarghaya's Blogspot"
+        logoText = "Ghost's Blogspot"
         logoHomeLink = "/"
 
       [languages.en.menu]
@@ -100,3 +101,8 @@ pagination.pagerSize = 5
           identifier = "about"
           name = "About"
           url = "/about"
+
+        [[languages.en.menu.main]]
+          identifier = "contact"
+          name = "Contact"
+          url = "/contact"

@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Ghost&#39;s Blogspot</title>
     <link>//localhost:1313/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Ghost&#39;s Blogspot</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 12 May 2025 05:09:17 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post - Day 0</title>
+      <link>//localhost:1313/blog/first-post---day-0/</link>
+      <pubDate>Mon, 12 May 2025 05:09:17 +0000</pubDate>
+      <guid>//localhost:1313/blog/first-post---day-0/</guid>
+      <description>So bascially this is Ghost&amp;rsquo;s First just to test this hugo blogging website made by himself and interact with you all.&#xA;Learnt many things like developing a hugo theme, importing archetypes and making this hostable to his domain. Basically this are the first towards a DevOps Engineer&amp;hellip;.&#xA;Do give any suggestion for improvement</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Profile Hey it&amp;rsquo;s Debarghaya Mitra aka Ghost Mitra. He is also a avid programmer who loves to be in backend and DevOps. Apart from programming he also loves Nature Photography, Racing, Biking to every corner , Reading each and every book and Travelling to each and every part of the world As for why the alias its because [redacted].&#xA;In this self made blogging website he would be giving his day to day coding journey, what he has learnt, what he has studied, his academics and any guides that he might want to preach&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>Socials x.com [ghost_mitra] github.com [GhostMitra] instagram.com [_mr.ghost.mitra_] Email debarghaya@debarghaya.in </description>
+    </item>
   </channel>
 </rss>
