@@ -12,9 +12,13 @@ draft: false
 # Socials
 
 &nbsp;&nbsp;x.com [[ghost_mitra](https://x.com/ghost_mitra)]\
-&nbsp;&nbsp;github.com [[GhostMitra](https://github.com/GhostMitra)]\
 &nbsp;&nbsp;instagram.com [[\_mr.ghost.mitra\_](https://www.instagram.com/_mr.ghost.mitra_/)]\
 󰬱&nbsp;&nbsp;threads.net [[@\_mr.ghost.mitra\_](https://www.threads.net/@_mr.ghost.mitra_)]
+
+# Gits
+
+&nbsp;&nbsp;github.com [[GhostMitra](https://github.com/GhostMitra)]\
+󰇵&nbsp;&nbsp;huggingface.co [[GhostMitra](https://huggingface.co/GhostMitra)]
 
 # Email
 
